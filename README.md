@@ -2,7 +2,7 @@
 
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardik-dadhich)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+Here are some Awesome things About me:
 
 - 🔭 I’m currently working on MediOne(The IDEA)
 - 🌱 I’m currently learning React.js
