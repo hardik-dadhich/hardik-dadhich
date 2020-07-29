@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about hobbies
 - 📫 How to reach me: dadhichhardik26@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: Coffee produces code
--->
+- ⚡ Fun fact: Cout << "Coffee produces code" <<endl;
+
